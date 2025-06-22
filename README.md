@@ -13,10 +13,12 @@
 
 ## 🛠️ Tecnologías que uso
 
-- Java · Spring Boot · MySQL · MongoDB  
-- JUnit · R2DBC · WebFlux · API REST  
-- Git & GitHub · Maven · Postman  
-- HTML5/CSS · React *(en progreso)*
+- Java · Spring Boot · Spring Security · JWT
+- MySQL · MongoDB  
+- JUnit · R2DBC · WebFlux · API REST
+- Lombok · MapStruct · SLF4J
+- Git & GitHub · Maven · Postman · Swagger
+- HTML5/CSS · React · TypeScript
 
 
 ---
